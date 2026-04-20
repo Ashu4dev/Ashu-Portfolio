@@ -5,9 +5,9 @@ export const PERSONAL_INFO = {
   role: 'Data Analyst | Data Science Student',
   tagline: 'Turning Data into Insights, One Dataset at a Time.',
   about: 'I am a passionate Data Science student with a strong foundation in statistics and programming. I love exploring complex datasets to find meaningful patterns that drive informed decision-making. My goal is to build intelligent systems that solve real-world problems.',
-  email: 'kumarashutosh@example.com',
-  linkedin: 'https://linkedin.com/in/ashutosh-kumar',
-  github: 'https://github.com/ashutosh-kumar',
+  email: 'ashudutta0502@gmail.com',
+  linkedin: 'www.linkedin.com/in/ashutosh-kumar-97749028a',
+  github: 'https://github.com/Ashu4dev',
   resume: 'https://drive.google.com/file/d/13P7cxubO_K21xnknenGjyndN9YWEQjR_/view?usp=drivesdk', // Placeholder link
 };
 
