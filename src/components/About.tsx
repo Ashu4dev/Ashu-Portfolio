@@ -2,6 +2,7 @@ import { motion } from 'motion/react';
 import { PERSONAL_INFO, SKILLS } from '../constants';
 import * as Icons from 'lucide-react';
 import SkillsChart from './SkillsChart';
+import Ashu from "../images/Ashu.jpeg";
 
 export default function About() {
   return (
@@ -41,7 +42,7 @@ export default function About() {
         >
           <div className="aspect-square rounded-2xl overflow-hidden glass p-1">
             <img 
-              src="https://picsum.photos/seed/developer/800/800" 
+              src={Ashu} 
               alt="Ashutosh Kumar" 
               className="w-full h-full object-cover rounded-2xl"
               referrerPolicy="no-referrer"

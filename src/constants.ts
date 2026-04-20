@@ -8,7 +8,7 @@ export const PERSONAL_INFO = {
   email: 'kumarashutosh@example.com',
   linkedin: 'https://linkedin.com/in/ashutosh-kumar',
   github: 'https://github.com/ashutosh-kumar',
-  resume: '#', // Placeholder link
+  resume: 'https://drive.google.com/file/d/13P7cxubO_K21xnknenGjyndN9YWEQjR_/view?usp=drivesdk', // Placeholder link
 };
 
 export const SKILLS: Skill[] = [
